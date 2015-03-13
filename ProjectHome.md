@@ -1,0 +1,1 @@
+Crousel otomatis by label
